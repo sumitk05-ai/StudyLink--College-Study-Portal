@@ -1,0 +1,7 @@
+{
+  "name": "StudyLink- College Study Portal",
+  "description": "A professional academic resources portal for engineering students featuring subject-wise notes, solved PYQs, and important questions with a secure founder portal.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
